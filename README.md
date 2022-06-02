@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **Development of VR games in Unity**
 
 - 📫 How to reach me **nikolaj2130@gmail.com**
-
-<p align="left">
+<p></p> 
+<p align="middle">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
