@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **nikolaj2130@gmail.com**
 
+- ⚡ Fun fact I like the character Pingu
+
+
 <p align="center">
 </p>
 
