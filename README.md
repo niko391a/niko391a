@@ -1,13 +1,11 @@
 <h1 align="center">Hello I'm Nikolaj</h1>
-<h3 align="center">A 19 year old guy from Denmark currently studying programming.</h3>
+<h3 align="center">A 20 year old guy from Denmark currently studying programming.</h3>
 
 - 🔭 I’m currently working on **some small scale Unity projects/mods**
 
 - 🌱 I’m currently learning **Development of VR games in Unity**
 
 - 📫 How to reach me **nikolaj2130@gmail.com**
-
-- ⚡ I also like the character Pingu
 
 
 <p align="center">
