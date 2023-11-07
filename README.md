@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Nikolaj</h1>
 <h3 align="center">A 20 year old guy from Denmark currently studying programming.</h3>
 
-- 🔭 I’m currently working on **some small scale Unity projects/mods**
+- 🔭 I’m currently working on **my BSc in Software Development**
 
 - 🌱 I’m currently learning **Development of VR games in Unity**
 
