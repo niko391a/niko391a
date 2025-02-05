@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Nikolaj</h1>
-<h3 align="center">A 21 year old guy from Denmark currently studying programming.</h3>
+<h3 align="center">A 21 year old guy from Denmark:
 
 - 🔭 I’m currently studying for my **BSc in Software Development**
 
