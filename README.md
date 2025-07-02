@@ -4,5 +4,3 @@
 - 🔭 I’m currently studying for my **BSc in Software Development**
 
 - 🌱 I’m currently learning **Development of VR games in Unity**
-
-- 📫 How to reach me **nikolaj2130@gmail.com**
