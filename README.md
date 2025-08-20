@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently studying for my **BSc in Software Development**
 
-- 🌱 I’m currently learning **Development of VR games in Unity**
+
